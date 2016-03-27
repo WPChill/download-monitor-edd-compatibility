@@ -15,6 +15,10 @@ This plugin enables you to run Download Monitor and Easy Digital Downloads along
 
 [Read more about Download Monitor](https://www.download-monitor.com/?utm_source=wp-plugin-repo&utm_medium=link&utm_campaign=dlm-edd-compatibility).
 
+>
+> #### DOWNLOAD MONITOR VERSION 1.9.2 OR HIGHER IS REQUIRED FOR THIS PLUGIN TO WORK
+>
+
 == Installation ==
 
 = Automatic installation =
